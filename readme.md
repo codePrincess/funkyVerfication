@@ -5,6 +5,8 @@
 
 The function implemented in this repo helps you verify the type of an identification card. Currently it works for German passports and national identification cards (Personalausweis) but it is easily extendable to other types of cards.
 
+<img src="https://dl.dropboxusercontent.com/u/2095227/blogscribbels/idverification.jpg" alt="Identification card verification" />
+
 You can fire up your own Azure Function if you want to host the logic in your own environment or just use the following url for a first try. 
 
 https://idverificationapp.azurewebsites.net/api/cardVerification
